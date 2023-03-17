@@ -1,0 +1,4 @@
+[core]
+    remote = hurryhurchand/nlp
+['remote "hurryhurchand/nlp"']
+    url = ../git@github.com:hurryhurchand/NLP.git

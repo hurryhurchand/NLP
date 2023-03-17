@@ -1,0 +1,11 @@
+schema: '2.0'
+stages:
+  run_main:
+    cmd: python main.py --input=parameters.yaml
+    deps:
+    - path: data/raw/fra.txt
+      md5: df3f29f57cbe8a45787cac25a9a049ba
+      size: 31547877
+    - path: parameters.yaml
+      md5: b66dddd574542b1bce7e8cbbc5d584c5
+      size: 84

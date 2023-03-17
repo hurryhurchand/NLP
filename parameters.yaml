@@ -1,0 +1,4 @@
+data:
+  eng: data/raw/fra.txt
+  cmn: data/raw/cmn.txt
+  train: data/raw/train.csv

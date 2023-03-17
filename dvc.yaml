@@ -1,0 +1,5 @@
+stages:
+  run_main:
+    cmd: python main.py --input=parameters.yaml
+    deps:
+    - parameters.yaml
